@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jordan Senft
 
-🎓 Aerospace Engineer | 💻 Software Developer | 🎓 University Lecturer  
+✈️ Aerospace Engineer | 💻 Software Developer | 🎓 University Lecturer  
 🔬 Focused on Engineering Software, Libraries and Toolkits, and Quality Documentation   
 Based in Blackpool, UK | Passionate about helping others learn
 
